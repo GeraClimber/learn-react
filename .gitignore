@@ -25,3 +25,5 @@ yarn-error.log*
 
 # user preferences
 node_modules/
+
+.idea
